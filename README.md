@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @nessan
-
-Messing around with bits and bobs ...
-
-eMail: nessan.fitzmaurice@me.com
+eMail: nzznfitz+github@icloud.com
 
 <!---
 nessan/nessan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
