@@ -1,4 +1,4 @@
-eMail: nzznfitz+github@icloud.com
+eMail: nzznfitz+gh@icloud.com
 
 <!---
 nessan/nessan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
